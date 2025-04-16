@@ -1,6 +1,6 @@
 {
 "AadClientId": "16338a5a-26e7-43c7-99dc-2856d20e8125",
-"AadSecret": "2ke8Q~z8lJ-yoY1K7cCwrMH.DO2Nk2IIv_Qdfc08",
+"AadSecret": "jyH8Q~VviUCp~MtdU1TyFwxVrP2HpK7-U.T1Pbg6",
 "AadTenantDomain": "chestatee.com",
 "AadTenantId": "f948c78c-c91e-4c8a-b651-73a6a8244075",
 }
