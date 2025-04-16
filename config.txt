@@ -1,5 +1,6 @@
 {
   "clientId": "16338a5a-26e7-43c7-99dc-2856d20e8125",
   "clientSecret": "jyH8Q~VviUCp~MtdU1TyFwxVrP2HpK7-U.T1Pbg6",
+"tenantDomain": "MngEnvMCAP381849.onmicrosoft.com",
   "tenantId": "f948c78c-c91e-4c8a-b651-73a6a8244075"
 }
